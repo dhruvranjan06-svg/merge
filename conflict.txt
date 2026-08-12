@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Main branch version
+=======
+Conflict branch version
+>>>>>>> conflict-test
